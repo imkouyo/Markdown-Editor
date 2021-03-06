@@ -1,0 +1,1 @@
+add_book(title="The Lord of rings")
